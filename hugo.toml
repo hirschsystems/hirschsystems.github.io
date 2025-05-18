@@ -1,0 +1,7 @@
+baseURL = 'https://hirschsystems.github.io/'
+languageCode = 'en-us'
+title = 'Hirsch Systems'
+disableKinds = ['taxonomy', 'term']
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
